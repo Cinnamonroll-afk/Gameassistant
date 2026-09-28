@@ -1,0 +1,53 @@
+{
+  "Poe1": {
+    "Folder": null,
+    "EnabledToggles": [],
+    "BasicEnabledToggles": [],
+    "ZoomIndex": 0,
+    "ProtectedSkills": [],
+    "DisabledSkills": [],
+    "ProtectedExtras": [],
+    "DisabledExtras": [],
+    "ProtectedSpells": [],
+    "DisabledSpells": [],
+    "ProtectedMtx": [],
+    "DisabledMtx": []
+  },
+  "Poe2": {
+    "Folder": "C:\\Program Files (x86)\\Steam\\steamapps\\common\\Path of Exile 2",
+    "EnabledToggles": [
+      "nullfog",
+      "nullenvironmentfx",
+      "nullbloomshaders",
+      "nullaoparticles",
+      "nullparticles",
+      "nullwaterffx",
+      "singleparticleflow",
+      "nullshadowshaders",
+      "nullwakeparticles",
+      "nullwakepets",
+      "nullitemmodels",
+      "nullmtx"
+    ],
+    "BasicEnabledToggles": [
+      "nullatlasfog",
+      "minimapreveal",
+      "nulldeliriumfog",
+      "monsterhpbar",
+      "removecorpses",
+      "removeshatter"
+    ],
+    "ZoomIndex": 4,
+    "ProtectedSkills": [],
+    "DisabledSkills": [],
+    "ProtectedExtras": [
+      "Monsters_Expedition"
+    ],
+    "DisabledExtras": [],
+    "ProtectedSpells": [],
+    "DisabledSpells": [],
+    "ProtectedMtx": [],
+    "DisabledMtx": []
+  },
+  "PresetBackupMode": "Official"
+}

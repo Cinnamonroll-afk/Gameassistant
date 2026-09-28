@@ -1,0 +1,25 @@
+{
+  "rules": [
+    {
+      "id": "65fc9fda0931426e9fda692f46982503",
+      "name": "amanamu",
+      "enabled": true,
+      "rarity": "Rare",
+      "beastOnly": false,
+      "monsterName": "",
+      "count": 0,
+      "mods": [
+        "MonsterAbyssLightlessFaction1"
+      ],
+      "color": "#FF35E8",
+      "width": 70,
+      "height": 70,
+      "strokeWidth": 3,
+      "shape": "Square",
+      "iconSize": 7,
+      "minimap": true,
+      "alert": false,
+      "threatIndicator": true
+    }
+  ]
+}

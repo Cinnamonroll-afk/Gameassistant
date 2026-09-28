@@ -1,0 +1,212 @@
+{
+  "general": {
+    "fpsCap": 60,
+    "resolveNavmeshPoe2db": true,
+    "elevationZCorrection": true,
+    "xpHudEnabled": false,
+    "xpHudOffsetX": 0,
+    "xpHudOffsetY": 0,
+    "followEnabled": false,
+    "followName": "",
+    "followColor": "#35B6FF",
+    "followSize": 26,
+    "groundUniquesEnabled": true,
+    "groundUniqueOffsetX": 80,
+    "groundUniqueOffsetY": 0,
+    "shiftPanScale": 0.8,
+    "alertVolume": 80,
+    "alertSound": 0
+  },
+  "hotkeys": {
+    "terminateApp": 120,
+    "openDashboard": 121,
+    "dumpEntities": 122,
+    "toggleOverlay": 123,
+    "scriptPanic": 0
+  },
+  "hpBars": {
+    "normal": false,
+    "magic": true,
+    "rare": true,
+    "unique": true,
+    "height": 5,
+    "offsetX": 0,
+    "offsetY": -25,
+    "widthNormal": 30,
+    "widthMagic": 40,
+    "widthRare": 40,
+    "widthUnique": 60
+  },
+  "styles": {
+    "monsterNormal": {
+      "enabled": true,
+      "shape": "Circle",
+      "color": "#FF3333",
+      "opacity": 1,
+      "size": 3,
+      "showLabel": false
+    },
+    "monsterMagic": {
+      "enabled": true,
+      "shape": "Circle",
+      "color": "#63ACFF",
+      "opacity": 1,
+      "size": 4,
+      "showLabel": false
+    },
+    "monsterRare": {
+      "enabled": true,
+      "shape": "Triangle",
+      "color": "#FFDF53",
+      "opacity": 1,
+      "size": 6,
+      "showLabel": false
+    },
+    "monsterUnique": {
+      "enabled": true,
+      "shape": "Diamond",
+      "color": "#F05800",
+      "opacity": 1,
+      "size": 7,
+      "showLabel": false
+    },
+    "player": {
+      "enabled": false,
+      "shape": "Circle",
+      "color": "#63ACFF",
+      "opacity": 1,
+      "size": 3,
+      "showLabel": false
+    },
+    "npc": {
+      "enabled": true,
+      "shape": "Square",
+      "color": "#FFDF53",
+      "opacity": 1,
+      "size": 4,
+      "showLabel": true
+    },
+    "chestRare": {
+      "enabled": true,
+      "shape": "Square",
+      "color": "#FFDF53",
+      "opacity": 1,
+      "size": 4,
+      "showLabel": false
+    },
+    "chestUnique": {
+      "enabled": true,
+      "shape": "Square",
+      "color": "#F05800",
+      "opacity": 1,
+      "size": 5,
+      "showLabel": false
+    },
+    "transition": {
+      "enabled": true,
+      "shape": "Square",
+      "color": "#BE00AF",
+      "opacity": 1,
+      "size": 5,
+      "showLabel": false
+    },
+    "poi": {
+      "enabled": false,
+      "shape": "Circle",
+      "color": "#BE00AF",
+      "opacity": 1,
+      "size": 3,
+      "showLabel": false
+    },
+    "landmark": {
+      "enabled": true,
+      "shape": "Square",
+      "color": "#BE00AF",
+      "opacity": 1,
+      "size": 5,
+      "showLabel": false
+    }
+  },
+  "override": [
+    {
+      "enabled": true,
+      "name": "Ritual",
+      "match": [
+        "Ritual"
+      ],
+      "categories": [],
+      "shape": "Star",
+      "color": "#00a300",
+      "opacity": 1,
+      "size": 4,
+      "showLabel": false
+    },
+    {
+      "enabled": true,
+      "name": "Breach",
+      "match": [
+        "Breach"
+      ],
+      "categories": [],
+      "shape": "Star",
+      "color": "#00a300",
+      "opacity": 1,
+      "size": 4,
+      "showLabel": false
+    },
+    {
+      "enabled": true,
+      "name": "Strongbox",
+      "match": [
+        "StrongBoxes"
+      ],
+      "categories": [
+        "Chest"
+      ],
+      "shape": "Star",
+      "color": "#00a300",
+      "opacity": 1,
+      "size": 4,
+      "showLabel": false
+    },
+    {
+      "enabled": true,
+      "name": "Essence",
+      "match": [
+        "Essence"
+      ],
+      "categories": [],
+      "shape": "Star",
+      "color": "#00a300",
+      "opacity": 1,
+      "size": 4,
+      "showLabel": false
+    }
+  ],
+  "hitIndicator": {
+    "enabled": true,
+    "ringRadius": 80,
+    "ringThickness": 3,
+    "arcMinDeg": 15,
+    "arcMaxDeg": 50,
+    "distanceFarGrid": 150,
+    "centerOffsetX": 0,
+    "centerOffsetY": -70,
+    "enabledMagic": true,
+    "enabledRare": true,
+    "enabledUnique": true,
+    "colorMagic": "",
+    "colorRare": "",
+    "colorUnique": "",
+    "opacityMagic": 0.6,
+    "opacityRare": 0.8,
+    "opacityUnique": 1
+  },
+  "toast": {
+    "width": 260,
+    "height": 48,
+    "fontSize": 16,
+    "durationMs": 4000,
+    "fadeMs": 600
+  }
+}

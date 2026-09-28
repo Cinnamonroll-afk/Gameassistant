@@ -1,0 +1,10 @@
+# !KEEP LIST!
+# nullenvironmentsounds — .env files whose audio this toggle leaves untouched (music,
+# ambient and footstep sounds kept).
+# Source of truth — edit freely (add or remove). Delete the file to restore the default.
+# One rule per line. Bare = "contains" match, * = wildcard, # = comment.
+#
+# Examples (uncomment and adapt):
+#   metadata/environmentsettings/maps/                 # keep a whole folder's audio
+#   *boss*                                             # keep boss-arena audio
+#   metadata/environmentsettings/maps/uberdoryani.env  # keep one file's audio

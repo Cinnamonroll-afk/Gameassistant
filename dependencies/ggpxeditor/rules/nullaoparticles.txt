@@ -1,0 +1,10 @@
+# !KEEP LIST!
+# nullaoparticles.txt — extra paths this toggle leaves untouched, added on top of the built-in list.
+# One rule per line. Bare = "contains" match, * = wildcard, # = comment.
+#
+# Examples (uncomment and adapt):
+#   metadata/effects/spells/lightning/      # keep a whole folder
+#   *herald*                                # keep anything containing "herald"
+#   metadata/effects/spells/fire/meteor.ao  # keep one exact file (full path)
+#
+

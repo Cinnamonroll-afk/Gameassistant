@@ -1,0 +1,176 @@
+{
+  "atlasNodePatterns": [
+    {
+      "pattern": "MapCavernCity",
+      "color": "#C23DFF",
+      "markerSize": 20,
+      "offscreenIndicator": true,
+      "matchTarget": "mapName",
+      "enabled": true,
+      "exclude": false
+    },
+    {
+      "pattern": "MapUniqueUntaintedParadise",
+      "color": "#00FBFF",
+      "markerSize": 20,
+      "offscreenIndicator": true,
+      "matchTarget": "mapName",
+      "enabled": true,
+      "exclude": true
+    },
+    {
+      "pattern": "ChayulaLeague_Tower",
+      "color": "#0008FF",
+      "markerSize": 20,
+      "offscreenIndicator": true,
+      "matchTarget": "mapName",
+      "enabled": true,
+      "exclude": false
+    },
+    {
+      "pattern": "MapMothersoul_Male",
+      "color": "#11FF00",
+      "markerSize": 20,
+      "offscreenIndicator": true,
+      "matchTarget": "mapName",
+      "enabled": true,
+      "exclude": false
+    },
+    {
+      "pattern": "MapDerelictMansion",
+      "color": "#FFF700",
+      "markerSize": 20,
+      "offscreenIndicator": true,
+      "matchTarget": "mapName",
+      "enabled": true,
+      "exclude": false
+    },
+    {
+      "pattern": "MapUberBoss_CopperCitadel",
+      "color": "#FF0000",
+      "markerSize": 20,
+      "offscreenIndicator": true,
+      "matchTarget": "mapName",
+      "enabled": true,
+      "exclude": false
+    },
+    {
+      "pattern": "MapUberBoss_IronCitadel",
+      "color": "#FF006F",
+      "markerSize": 20,
+      "offscreenIndicator": false,
+      "matchTarget": "mapName",
+      "enabled": true,
+      "exclude": false
+    },
+    {
+      "pattern": "MapUberBoss_StoneCitadel",
+      "color": "#FF006F",
+      "markerSize": 20,
+      "offscreenIndicator": false,
+      "matchTarget": "mapName",
+      "enabled": true,
+      "exclude": false
+    },
+    {
+      "pattern": "MapUniqueMegalith",
+      "color": "#3CDCFF",
+      "markerSize": 20,
+      "offscreenIndicator": true,
+      "matchTarget": "mapName",
+      "enabled": true,
+      "exclude": true
+    },
+    {
+      "pattern": "Matriarch Halls",
+      "color": "#04FF00",
+      "markerSize": 20,
+      "offscreenIndicator": true,
+      "matchTarget": "mapName",
+      "enabled": true,
+      "exclude": false
+    },
+    {
+      "pattern": "Riverside",
+      "color": "#3CDCFF",
+      "markerSize": 20,
+      "offscreenIndicator": false,
+      "matchTarget": "mapName",
+      "enabled": true,
+      "exclude": true
+    },
+    {
+      "pattern": "MapRupture",
+      "color": "#3CDCFF",
+      "markerSize": 20,
+      "offscreenIndicator": false,
+      "matchTarget": "mapName",
+      "enabled": true,
+      "exclude": true
+    },
+    {
+      "pattern": "MapUniqueLake",
+      "color": "#3CDCFF",
+      "markerSize": 20,
+      "offscreenIndicator": true,
+      "matchTarget": "mapName",
+      "enabled": true,
+      "exclude": true
+    },
+    {
+      "pattern": "MapUniqueSelenite",
+      "color": "#3CDCFF",
+      "markerSize": 20,
+      "offscreenIndicator": true,
+      "matchTarget": "mapName",
+      "enabled": true,
+      "exclude": true
+    },
+    {
+      "pattern": "MapUniqueCastaway",
+      "color": "#3CDCFF",
+      "markerSize": 20,
+      "offscreenIndicator": true,
+      "matchTarget": "mapName",
+      "enabled": true,
+      "exclude": true
+    },
+    {
+      "pattern": "MapUniqueMerchant03_Raft",
+      "color": "#3CDCFF",
+      "markerSize": 20,
+      "offscreenIndicator": true,
+      "matchTarget": "mapName",
+      "enabled": true,
+      "exclude": true
+    },
+    {
+      "pattern": "citadel",
+      "color": "#00FBFF",
+      "markerSize": 20,
+      "offscreenIndicator": false,
+      "matchTarget": "mapName",
+      "enabled": true,
+      "exclude": false
+    },
+    {
+      "pattern": "unique",
+      "color": "#F05800",
+      "markerSize": 20,
+      "offscreenIndicator": true,
+      "matchTarget": "tags",
+      "enabled": true,
+      "exclude": false
+    }
+  ],
+  "drawOffsetX": 0,
+  "drawOffsetY": 0,
+  "drawVisited": false,
+  "hideCompleted": true,
+  "hideAccessible": true,
+  "atlasBuiltInSeeded": true,
+  "atlasContentIcons": true,
+  "atlasContentIconSize": 22,
+  "atlasContentIconsAlways": false,
+  "drawRange": 0
+}

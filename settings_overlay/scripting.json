@@ -1,0 +1,10 @@
+{
+  "enabled": true,
+  "tickIntervalMs": 50,
+  "input": {
+    "enabled": false,
+    "requireForeground": true,
+    "minIntervalMs": 130
+  },
+  "scripts": []
+}

@@ -1,0 +1,41 @@
+# !KEEP LIST!
+# nulldarkness — .env zones this toggle leaves untouched (dark/critical zones kept so they
+# aren't brightened).
+# Source of truth — edit freely (add or remove). Delete the file to restore the default.
+# One rule per line. Bare = "contains" match, * = wildcard, # = comment.
+#
+# Examples (uncomment and adapt):
+#   metadata/environmentsettings/maps/                 # keep a whole folder
+#   *boss*                                             # keep anything containing "boss"
+#   metadata/environmentsettings/maps/uberdoryani.env  # keep one exact file
+
+metadata/environmentsettings/gallows/1_15.env
+metadata/environmentsettings/gallows/1_15_arena.env
+metadata/environmentsettings/gallows/1_15_nolight.env
+metadata/environmentsettings/gallows/2_1.env
+metadata/environmentsettings/gallows/2_10_1.env
+metadata/environmentsettings/gallows/2_10_2.env
+metadata/environmentsettings/gallows/2_10_2_boss.env
+metadata/environmentsettings/gallows/2_2.env
+metadata/environmentsettings/gallows/2_3_dark.env
+metadata/environmentsettings/gallows/2_3_ew.env
+metadata/environmentsettings/gallows/2_3_ns.env
+metadata/environmentsettings/gallows/2_3_path.env
+metadata/environmentsettings/gallows/2_3_sn.env
+metadata/environmentsettings/gallows/2_3_we.env
+metadata/environmentsettings/gallows/2_3a.env
+metadata/environmentsettings/gallows/2_6.env
+metadata/environmentsettings/gallows/2_6_dark.env
+metadata/environmentsettings/gallows/2_7.env
+metadata/environmentsettings/gallows/2_8.env
+metadata/environmentsettings/gallows/2_8_alt.env
+metadata/environmentsettings/gallows/2_8_boss.env
+metadata/environmentsettings/gallows/2_8_dark.env
+metadata/environmentsettings/gallows/2_9_1.env
+metadata/environmentsettings/gallows/3_4.env
+metadata/environmentsettings/gallows/3_4_storyroom.env
+metadata/environmentsettings/maps/azmerianranges.env
+metadata/environmentsettings/maps/mothersoul.env
+metadata/environmentsettings/maps/uberdoryani.env
+metadata/environmentsettings/maps/uberdoryani_holodeck.env
+metadata/environmentsettings/maps/uniquecastaway.env
